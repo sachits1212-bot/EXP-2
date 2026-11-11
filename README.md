@@ -1,5 +1,5 @@
 # EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+EXPT NO: 2 Study of Load characteristic and Magnetic characteristic of DC shunt generator
 
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
@@ -47,17 +47,13 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Magnetic circuit characteristics:
+<img width="871" height="757" alt="Screenshot 2026-11-11 213341" src="https://github.com/user-attachments/assets/e95bb4a5-da16-4bfc-8b97-56889e11e671" />
 
-Tabulation for Load Test:
 
-Model graph:
-Calculation: 
-
-Open circuit characteristics
-
-  
 Load Characteristics:
- 
+ <img width="928" height="806" alt="Screenshot 2026-11-11 213545" src="https://github.com/user-attachments/assets/5d72f8f2-0e27-4bce-89cd-2af7a3f7b5dd" />
+
 Result:
+
 The load test on separately excited generators and to obtain the characteristics was verified.
